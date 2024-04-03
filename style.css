@@ -8,13 +8,13 @@ body{
 #left-column{
     width: 60%;
     float: left;
-    background-color: aqua;
+    background-color: lightgreen;
 }
 
 #right-column img{
     width: 500px;
-    margin-left: 0px;
-    margin-top: 50px;
+    margin-left: -70px;
+    margin-top: -50px;
 }
 
 #right-column p{
